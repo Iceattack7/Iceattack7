@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Iceattack7
 - 👀 I’m interested in becoming a game developer
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me discord username: iceattack
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love hockey
 
 <!---
