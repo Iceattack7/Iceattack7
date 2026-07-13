@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Iceattack
 - 👀 I’m interested in becoming a game developer
 - 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Minecraft Modding too (Java)
 - 📫 How to reach me: Discord username: iceattack
 - ⚡ Fun fact: I love hockey
 
